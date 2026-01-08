@@ -10,7 +10,7 @@ Tämä ohjelma tarjoaa pienessä ikkunassa työpöydällesi Yle:n teksti-tv:n se
 
 Ohjelmassa voi lisätä ja poistaa kirjanmerkkejä samalla painikkeella; se poistaa sivun kirjanmerkeistä jos nykyinen sivu-alasivu-kombinaatio on jo kirjanmerkeissä. Kirjanmerkki lisätään listan loppuun, mutta niitä voi poistaa mistä kohdasta tahansa.
 
-Ohjelmaikkunaa voi sävyttää eri väreillä tai sen voi muuttaa mustavalkoiseksi. Sivujen tyyliä voi vaihtaa niin ikään yhdellä napilla.
+Ohjelmaikkunaa voi sävyttää eri väreillä tai sen voi muuttaa mustavalkoiseksi. Sivujen tyyliä voi vaihtaa niin ikään yhdellä napilla. Ohjelma käynnistyy automaattisesti startissa ja muistaa viimeisen sijaintinsa.
 
 Toistaiseksi ohjelma on saatavilla Windowsille. Macintosh- ja Linux-buildit vaativat enemmän testaamista ennen kuin laitan ne jakoon.
 
