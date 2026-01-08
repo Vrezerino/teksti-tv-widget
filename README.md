@@ -20,7 +20,7 @@ This is a teletext desktop widget program that gets the teletext pages from Finn
 
 FI:
 
->Käyttäjä ymmärtää ja hyväksyy, että ohjelma käyttää Ylen ohjelmointirajapintaa saadakseen itse teksti-tv-sivut, eikä kehittäjä ole vastuussa kyseisen rajapinnan käytön epäonnistumisesta, virheistä tai katkokselta.
+>Käyttäjä ymmärtää ja hyväksyy, että ohjelma käyttää Ylen ohjelmointirajapintaa saadakseen itse teksti-tv-sivut, eikä kehittäjä ole vastuussa kyseisen rajapinnan käytön epäonnistumisesta, virheistä tai katkoksista.
 
 >Tätä ohjelmaa ei ole kehittänyt Yle. Ohjelman kehittäjä ei ole vastuussa siitä sisällöstä, mitä teksti-tv-sivuilla näytetään, vaan Yle. Rajapinnasta haettujen teksti-tv-sivujen asiasisältö vastaa aina sitä, mitä Yle on tuottanut.
 
