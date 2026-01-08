@@ -1,4 +1,4 @@
-# Teksti-TV-työpöytä-widget
+# Teksti-TV-työpöytäwidget
 
 
 
