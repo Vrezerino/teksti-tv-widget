@@ -4,7 +4,7 @@
 
 https://github.com/user-attachments/assets/576329e9-0de9-44f4-a061-60544993af96
 
-
+## Uutiset työpöydälle ilman keksikyselyjä, jäljittämistä ja älämölöä.
 
 Tämä ohjelma tarjoaa pienessä ikkunassa työpöydällesi Yle:n teksti-tv:n sekä perinteiset kuvamuotoiset että tekstimuotoiset sivut.
 
