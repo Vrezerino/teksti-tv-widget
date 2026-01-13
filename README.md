@@ -1,7 +1,11 @@
 # Teletext Desktop Widget
 
 
-https://github.com/user-attachments/assets/e973226d-e81f-4290-a1f3-aea8fe4f4dce
+
+
+https://github.com/user-attachments/assets/a703fbf5-d709-4fa3-ad76-cbf11417721b
+
+
 
 
 ## News to your desktop without cookies, tracking and nonsense.
