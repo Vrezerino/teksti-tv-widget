@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/a703fbf5-d709-4fa3-ad76-cbf11417721b
 
 ## News to your desktop without cookies, tracking and nonsense.
 
-This is a teletext desktop widget program that as of version 1.3.0 gets teletext pages from Austrian ORF, Danish DR, Finnish Yle, Italian RAI, Polish Polsat and Swedish SVT. One can save pages as bookmarks, adjust program window hue, set it as black-and-white and toggle the theme between traditional image pages and "modern"-look textual pages.
+This is a teletext desktop widget program that as of version 1.3.0 gets teletext pages from Austrian ORF, Danish DR, Finnish Yle, Italian RAI, Polish Polsat, Slovenian RTV, Spanish Antena3 and Swedish SVT. One can save pages as bookmarks, adjust program window hue, set it as black-and-white and toggle the theme between traditional image pages and "modern"-look textual pages.
 
 ## License agreement
 
