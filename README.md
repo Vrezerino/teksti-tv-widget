@@ -4,7 +4,8 @@
 
 
 
-![ui](https://github.com/user-attachments/assets/29e28f5a-b054-46ee-b631-700ca1908be0)
+
+![ezgif-6ab38fb041cfbd31](https://github.com/user-attachments/assets/20551a4c-f377-4fa9-9a92-a88da71133cf)
 
 
 
@@ -12,7 +13,7 @@
 
 ## News to your desktop without cookies, tracking and nonsense.
 
-This is a teletext desktop widget program that as of version 1.5.0 gets teletext pages from 15 broadcasters or channels. One can save pages as bookmarks, adjust program window hue, set it as black-and-white and toggle the theme between traditional image pages and "modern"-look textual pages.
+This is a teletext desktop widget program that as of version 1.6.0 gets teletext pages from 16 broadcasters or channels. One can save pages as bookmarks, adjust program window hue, set it as black-and-white and toggle the theme between traditional image pages and "modern"-look textual pages.
 
 ## License agreement
 
