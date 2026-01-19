@@ -14,10 +14,6 @@
 
 This is a teletext desktop widget program that as of version 1.5.0 gets teletext pages from 15 broadcasters or channels. One can save pages as bookmarks, adjust program window hue, set it as black-and-white and toggle the theme between traditional image pages and "modern"-look textual pages.
 
-## Changes
-
-- Added seven Swiss channels
-
 ## License agreement
 
 >The user agrees and understands that this program uses different broadcasters' application programming interfaces (API) to retrieve the teletext page contents, and the developer is not responsible for possible downtime or errors of the APIs itself. The developer is also not responsible for what kind of content the teletext pages display.
